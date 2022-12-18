@@ -1,0 +1,15 @@
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\02_Sravnenie.csproj.AssemblyReference.cache
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\02_Sravnenie.GeneratedMSBuildEditorConfig.editorconfig
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\02_Sravnenie.AssemblyInfoInputs.cache
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\02_Sravnenie.AssemblyInfo.cs
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\02_Sravnenie.csproj.CoreCompileInputs.cache
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\bin\Debug\net7.0\02_Sravnenie.exe
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\bin\Debug\net7.0\02_Sravnenie.deps.json
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\bin\Debug\net7.0\02_Sravnenie.runtimeconfig.json
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\bin\Debug\net7.0\02_Sravnenie.dll
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\bin\Debug\net7.0\02_Sravnenie.pdb
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\02_Sravnenie.dll
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\refint\02_Sravnenie.dll
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\02_Sravnenie.pdb
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\02_Sravnenie.genruntimeconfig.cache
+E:\2022\C#\Examples\Seminar_1\02_Sravnenie\obj\Debug\net7.0\ref\02_Sravnenie.dll
